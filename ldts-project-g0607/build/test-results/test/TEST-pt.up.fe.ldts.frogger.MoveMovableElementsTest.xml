@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pt.up.fe.ldts.frogger.MoveMovableElementsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-30T03:55:07" hostname="ISABEL-PC" time="1.52">
+  <properties/>
+  <testcase name="moveTurtles()" classname="pt.up.fe.ldts.frogger.MoveMovableElementsTest" time="0.501"/>
+  <testcase name="moveCars()" classname="pt.up.fe.ldts.frogger.MoveMovableElementsTest" time="0.513"/>
+  <testcase name="moveTreeTrunks()" classname="pt.up.fe.ldts.frogger.MoveMovableElementsTest" time="0.504"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

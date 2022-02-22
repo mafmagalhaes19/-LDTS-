@@ -1,0 +1,72 @@
+pt/up/fe/ldts/frogger/gameelement/elementfactory/CreateCar.java
+ pt.up.fe.ldts.frogger.gameelement.elementfactory.CreateCar
+pt/up/fe/ldts/frogger/gameelement/elementfactory/MovableElementsFactory.java
+ pt.up.fe.ldts.frogger.gameelement.elementfactory.MovableElementsFactory
+pt/up/fe/ldts/frogger/Arena.java
+ pt.up.fe.ldts.frogger.Arena
+pt/up/fe/ldts/frogger/gameelement/movable/Turtle.java
+ pt.up.fe.ldts.frogger.gameelement.movable.Turtle
+pt/up/fe/ldts/frogger/gameelement/elementfactory/CreateTreeTrunk.java
+ pt.up.fe.ldts.frogger.gameelement.elementfactory.CreateTreeTrunk
+pt/up/fe/ldts/frogger/gameelement/nonmovable/Water.java
+ pt.up.fe.ldts.frogger.gameelement.nonmovable.Water
+pt/up/fe/ldts/frogger/state/State.java
+ pt.up.fe.ldts.frogger.state.State
+pt/up/fe/ldts/frogger/gameelement/movable/MovableElement.java
+ pt.up.fe.ldts.frogger.gameelement.movable.MovableElement
+pt/up/fe/ldts/frogger/gameelement/movable/Car.java
+ pt.up.fe.ldts.frogger.gameelement.movable.Car
+pt/up/fe/ldts/frogger/gameelement/elementcommand/Command.java
+ pt.up.fe.ldts.frogger.gameelement.elementcommand.Command
+pt/up/fe/ldts/frogger/menus/Level.java
+ pt.up.fe.ldts.frogger.menus.Level
+ pt.up.fe.ldts.frogger.menus.Level$1
+pt/up/fe/ldts/frogger/state/LoseState.java
+ pt.up.fe.ldts.frogger.state.LoseState
+pt/up/fe/ldts/frogger/Application.java
+ pt.up.fe.ldts.frogger.Application
+pt/up/fe/ldts/frogger/gameelement/elementcommand/MoveLeft.java
+ pt.up.fe.ldts.frogger.gameelement.elementcommand.MoveLeft
+pt/up/fe/ldts/frogger/PositionRange.java
+ pt.up.fe.ldts.frogger.PositionRange
+pt/up/fe/ldts/frogger/menus/Win.java
+ pt.up.fe.ldts.frogger.menus.Win
+pt/up/fe/ldts/frogger/gameelement/elementcommand/MoveRight.java
+ pt.up.fe.ldts.frogger.gameelement.elementcommand.MoveRight
+pt/up/fe/ldts/frogger/state/WinState.java
+ pt.up.fe.ldts.frogger.state.WinState
+pt/up/fe/ldts/frogger/menus/Lose.java
+ pt.up.fe.ldts.frogger.menus.Lose
+pt/up/fe/ldts/frogger/state/MenuState.java
+ pt.up.fe.ldts.frogger.state.MenuState
+pt/up/fe/ldts/frogger/gameelement/nonmovable/Road.java
+ pt.up.fe.ldts.frogger.gameelement.nonmovable.Road
+pt/up/fe/ldts/frogger/menus/Instructions.java
+ pt.up.fe.ldts.frogger.menus.Instructions
+pt/up/fe/ldts/frogger/gameelement/nonmovable/Sidewalk.java
+ pt.up.fe.ldts.frogger.gameelement.nonmovable.Sidewalk
+pt/up/fe/ldts/frogger/gameelement/nonmovable/NonMovableElement.java
+ pt.up.fe.ldts.frogger.gameelement.nonmovable.NonMovableElement
+pt/up/fe/ldts/frogger/gameelement/nonmovable/Grass.java
+ pt.up.fe.ldts.frogger.gameelement.nonmovable.Grass
+pt/up/fe/ldts/frogger/gameelement/elementfactory/CreateFrog.java
+ pt.up.fe.ldts.frogger.gameelement.elementfactory.CreateFrog
+pt/up/fe/ldts/frogger/Game.java
+ pt.up.fe.ldts.frogger.Game
+ pt.up.fe.ldts.frogger.Game$1
+ pt.up.fe.ldts.frogger.Game$2
+pt/up/fe/ldts/frogger/gameelement/movable/TreeTrunk.java
+ pt.up.fe.ldts.frogger.gameelement.movable.TreeTrunk
+pt/up/fe/ldts/frogger/gameelement/elementfactory/CreateTurtle.java
+ pt.up.fe.ldts.frogger.gameelement.elementfactory.CreateTurtle
+pt/up/fe/ldts/frogger/state/GameState.java
+ pt.up.fe.ldts.frogger.state.GameState
+pt/up/fe/ldts/frogger/gameelement/movable/Frog.java
+ pt.up.fe.ldts.frogger.gameelement.movable.Frog
+pt/up/fe/ldts/frogger/Position.java
+ pt.up.fe.ldts.frogger.Position
+pt/up/fe/ldts/frogger/menus/Menu.java
+ pt.up.fe.ldts.frogger.menus.Menu
+ pt.up.fe.ldts.frogger.menus.Menu$1
+pt/up/fe/ldts/frogger/gameelement/Element.java
+ pt.up.fe.ldts.frogger.gameelement.Element

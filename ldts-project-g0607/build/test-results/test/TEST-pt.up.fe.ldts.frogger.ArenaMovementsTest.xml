@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pt.up.fe.ldts.frogger.ArenaMovementsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-01-30T03:55:02" hostname="ISABEL-PC" time="0.095">
+  <properties/>
+  <testcase name="canFrogMoveCarCollisionTest()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.06"/>
+  <testcase name="moveFrogDieTest()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.002"/>
+  <testcase name="verifyCarCollision()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.004"/>
+  <testcase name="moveFrogTest()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.002"/>
+  <testcase name="verifyTurtleCollision()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.002"/>
+  <testcase name="verifyTreeTrunkCollision()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.002"/>
+  <testcase name="verifyWaterCollisionTrueTest()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.004"/>
+  <testcase name="verifyFrogCollisionTrueTest()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.001"/>
+  <testcase name="verifyWaterCollisionFalseTest()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.001"/>
+  <testcase name="verifyGrassCollision()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.001"/>
+  <testcase name="canFrogMoveWaterCollisionTest()" classname="pt.up.fe.ldts.frogger.ArenaMovementsTest" time="0.002"/>
+  <system-out><![CDATA[YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU WERE HIT BY A CAR
+YOU FELL INTO THE RIVER
+YOU FELL INTO THE RIVER
+YOU FELL INTO THE RIVER
+YOU FELL INTO THE RIVER
+YOU FELL INTO THE RIVER
+YOU FELL INTO THE RIVER
+YOU WON
+YOU WON
+YOU WON
+YOU FELL INTO THE RIVER
+YOU FELL INTO THE RIVER
+YOU FELL INTO THE RIVER
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pt.up.fe.ldts.frogger.FactoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-30T03:55:05" hostname="ISABEL-PC" time="0.006">
+  <properties/>
+  <testcase name="createTreeTrunks()" classname="pt.up.fe.ldts.frogger.FactoryTest" time="0.0"/>
+  <testcase name="createTurtles()" classname="pt.up.fe.ldts.frogger.FactoryTest" time="0.001"/>
+  <testcase name="createCars()" classname="pt.up.fe.ldts.frogger.FactoryTest" time="0.001"/>
+  <testcase name="createFrog()" classname="pt.up.fe.ldts.frogger.FactoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pt.up.fe.ldts.frogger.ArenaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-30T03:55:03" hostname="ISABEL-PC" time="2.162">
+  <properties/>
+  <testcase name="drawArenaTest()" classname="pt.up.fe.ldts.frogger.ArenaTest" time="2.162"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
